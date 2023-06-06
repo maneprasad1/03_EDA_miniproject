@@ -1,1 +1,1 @@
-# 03_EDA_miniproject
+# 03_EDA_miniprojec
